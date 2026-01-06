@@ -1,4 +1,4 @@
-// To delete the specific element in an array.
+// 3. To delete the specific element in an array.
 
 #include <iostream>
 using namespace std; 
