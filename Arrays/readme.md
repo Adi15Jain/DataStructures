@@ -6,5 +6,5 @@
 6. To reverse an array.
 7. To count even and odd elements in an array.
 8. To find the sum and average of array elements.
-9.
+9. To remove duplicate elements from an array.
 10.
