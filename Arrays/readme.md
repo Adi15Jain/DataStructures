@@ -4,7 +4,7 @@
 4. To search an element in an array (Linear Search).
 5. To find the largest and smallest element in an array.
 6. To reverse an array.
-7.
+7. To count even and odd elements in an array.
 8.
 9.
 10.
