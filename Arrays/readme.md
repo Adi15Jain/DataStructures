@@ -3,7 +3,7 @@
 3. To delete the specific element in an array.
 4. To search an element in an array (Linear Search).
 5. To find the largest and smallest element in an array.
-6.
+6. To reverse an array.
 7.
 8.
 9.
