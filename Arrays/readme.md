@@ -5,6 +5,6 @@
 5. To find the largest and smallest element in an array.
 6. To reverse an array.
 7. To count even and odd elements in an array.
-8.
+8. To find the sum and average of array elements.
 9.
 10.
