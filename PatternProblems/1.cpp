@@ -1,4 +1,4 @@
-// To print a simple star pattern
+// 1. To print a simple star pattern upto a desired value.
 
 #include <iostream>
 using namespace std;
@@ -9,9 +9,11 @@ int main () {
     cin >> n;
 
     for (int i = 0; i < n; i++) {
-        for (int j = i + 1; j > n - i - 1; j++) {
-            cout << "*" << endl;
+        for (int j = 0; j <= i; j++) {
+            cout << "*";
         }
+        cout << endl;
     }
+
     return 0;
 }
