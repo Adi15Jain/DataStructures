@@ -10,7 +10,7 @@ using namespace std;
 int main () {
     int n, num = 1;
 
-    cout << "Enter number upto which triangle is to be printed: ";
+    cout << "Enter number of rows upto which triangle is to be printed: ";
     cin >> n;
 
     for (int i = 1; i <= n; i++) {
