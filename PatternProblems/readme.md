@@ -8,6 +8,6 @@
    4 5 6
    7 8 9 10
 6. To print a diamond pattern using loops.
-7.
-8.
+7. To print a hollow diamond pattern.
+8. To print butterfly pattern.
 9.
