@@ -10,4 +10,4 @@
 6. To print a diamond pattern using loops.
 7. To print a hollow diamond pattern.
 8. To print butterfly pattern.
-9.
+9. To print a hollow square pattern.
