@@ -4,12 +4,12 @@
 using namespace std;
 
 int main () {
-    int n;
+    int x;
     cout << "Enter the value upto which the pyramid is to be built: ";
-    cin >> n;
+    cin >> x;
 
-    for (int i = 0; i < n; i++) {
-        for (int s = 1; s < n - i; s++) {
+    for (int i = 0; i < x; i++) {
+        for (int s = 1; s < x - i; s++) {
             cout << " ";
         }
         for (int j = 0; j < 2 * i - 1; j++) {
